@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sfmlProj.dir/main.cc.o -o sfmlProj   -L/home/makus/code/templates/sfml/src/../lib 

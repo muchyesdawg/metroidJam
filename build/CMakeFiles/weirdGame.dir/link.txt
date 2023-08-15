@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/weirdGame.dir/main.cc.o -o weirdGame   -L/home/makus/code/templates/sfml/src/../lib 

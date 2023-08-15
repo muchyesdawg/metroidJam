@@ -1,0 +1,3 @@
+/home/makus/code/templates/sfml/build/CMakeFiles/sfmlProj.dir
+/home/makus/code/templates/sfml/build/CMakeFiles/edit_cache.dir
+/home/makus/code/templates/sfml/build/CMakeFiles/rebuild_cache.dir
