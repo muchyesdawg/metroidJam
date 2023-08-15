@@ -7,4 +7,4 @@ file(GLOB_RECURSE HDRPS *.cc)
 
 add_executable(sfmlProj main.cc ${SRCS} ${HDRS} ${HDRPS})
 target_link_directories(sfmlProj PRIVATE ${CMAKE_SOURCE_DIR}/../lib)
-target_link_libraries(sfmlProj sfml-graphics sfml-widnows sfml-system)
+target_link_libraries(sfmlProj sfml-graphics sfml-widnows sfml-system Gmethod)
