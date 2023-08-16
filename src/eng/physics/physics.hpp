@@ -4,8 +4,8 @@ namespace engM{
     class phyMain{
         private:
             b2Vec2 grav;
-            b2World world;
         public:
+            b2World world;
 
     };
 };
