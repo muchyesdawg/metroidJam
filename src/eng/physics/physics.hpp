@@ -1,3 +1,4 @@
+#pragma once
 #include "../../main.h"
 
 namespace engM{
@@ -6,6 +7,6 @@ namespace engM{
             b2Vec2 grav;
         public:
             b2World world;
-
+            phyMain(b2Vec2 g);
     };
 };
