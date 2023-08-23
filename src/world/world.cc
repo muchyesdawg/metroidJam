@@ -1,5 +1,5 @@
 #include "world.hpp"
-using engW;
+using namepsace engW;
 world::world(string i){ 
     
 }
