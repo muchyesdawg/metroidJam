@@ -1,5 +1,9 @@
 #include "world.hpp"
-using namepsace engW;
-world::world(string i){ 
-    
+using namespace engW;
+
+manager::manager(string p){ 
+    t = "";
+    m.def();
+    m.load(p);
+    while(t != "EOF"){}
 }
