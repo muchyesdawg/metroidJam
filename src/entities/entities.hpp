@@ -1,5 +1,9 @@
+#pragma once
+
 #include "../main.h"
+#include "../eng.h"
 namespace engE{
+    static engM::phyMain* physicsMain;
     class entity{
         b2Body* body;
         
@@ -9,5 +13,4 @@ namespace engE{
     void clBodDef();
     extern b2BodyDef bodyDef;
     extern b2PolygonShape polShape;
-    extern  b2World world;
 }
